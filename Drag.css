@@ -1,0 +1,116 @@
+#background {
+    width: 414px;
+    height: 571px;
+    overflow: hidden;
+	position: absolute;
+	left: 0px;top: 0px;
+    opacity:1;
+}
+
+/* Glasses */
+#dragme1 {
+    width: 265px;
+    height: 90px;
+    overflow: hidden;
+	position: relative;
+	left: 25px;top: 755px;
+    opacity:1;
+}
+
+/* Hat */
+#dragme2 {
+    width: 212px;
+    height: 79px;
+    overflow: hidden;
+	position: relative;
+	left: 62px;top: 577px;
+    opacity:1;
+}
+
+/* Flower */
+#dragme3 {
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+    position: relative;
+	left: 267px;top: 487px;
+    opacity:1;
+}
+
+/* Bowtie */
+#dragme4 {
+    width: 111px;
+    height: 70px;
+    overflow: hidden;
+    position: relative;
+	left: 6px;top: 397px;
+    opacity:1;
+}
+
+/* Humpty Dumpty */
+#dragme5 {
+    width: 102px;
+    height: 137px;
+    overflow: hidden;
+    position: relative;
+	left: 299px;top: 406px;
+    opacity:1;
+}
+
+/* Crown */
+#dragme6 {
+    width: 85px;
+    height: 53px;
+    overflow: hidden;
+    position: relative;
+	left: 311px;top: 127px;
+    opacity:1;
+}
+
+/* Weird Hat */
+#dragme7 {
+    width: 150px;
+    height: 73px;
+    overflow: hidden;
+    position: relative;
+	left: 139px;top: 93px;
+    opacity:1;
+}
+
+/* Moustache */
+#dragme8 {
+    width: 136px;
+    height: 62px;
+    overflow: hidden;
+    position: relative;
+	left: 18px;top: 19px;
+    opacity:1;
+}
+
+/* Comb */
+#dragme9 {
+    width: 73px;
+    height: 59px;
+    overflow: hidden;
+    position: relative;
+	left: 315px;top: 7px;
+    opacity:1;
+}
+
+/* Buttons */
+#buttons {
+    width: 200;px;
+    height: 48px;
+    overflow: hidden;
+    position: absolute;
+	left: 103px;top: 550px;
+    opacity:1;
+}
+
+#canvas {
+background: url(images/body.jpg) no-repeat;
+position: absolute; 
+width:  100% ;
+height: 571px;
+padding-left:35px;
+}
